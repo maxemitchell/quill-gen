@@ -1,0 +1,9 @@
+{
+  "name": "quill-gen",
+  "version": "0.0.1",
+  "description": "A p5.js Shapes / Paint Brush Library",
+  "main": "index.js",
+  "repository": "https://github.com/maxemitchell/quill-gen.git",
+  "author": "Max Mitchell <maxemitchell@gmail.com>",
+  "license": "MIT"
+}
